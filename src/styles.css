@@ -29,20 +29,20 @@ h1 {
 }
 
 input {
-    width: 80%;
+/*     width: 80%; */
     margin-bottom: 2vh;
     text-align: center;
     font-weight: bold;
     color: black;
-    border: 1px solid red;
+/*     border: 1px solid red; */
 }
 
 .btn {
     background-color: black;
     color: white;
-    font-size: xxx-large;
+/*     font-size: xxx-large; */
     margin-left: 1vw;
-    margin-bottom: 5vh;
+/*     margin-bottom: 5vh; */
 }
 
 @media screen and (max-width: 650px) {
